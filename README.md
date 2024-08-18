@@ -17,7 +17,7 @@ Order at 0.8mm and with ENIG, **NOT HASL**.
 |Designator|Component|
 |----------|---------|
 |C1,C2,C3,C4,C6|0402 0.1uF|
-|C5|0603 ? (likely 0.1uF)|
+|C5|0603 ?|
 |R1|0402 1k|
 |R2,R4|0402 100k|
 |R3|0402 5k|
