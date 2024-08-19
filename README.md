@@ -21,7 +21,7 @@ Order at 0.8mm and with ENIG, **NOT HASL**.
 |R1|0402 1k|
 |R2,R4|0402 100k|
 |R3|0402 5k|
-|R5|0603 10k|
+|R5|0603 10k (FRAM ONLY!)|
 |BT1|CR1616 Tabbed|
 |U1|harvested (MX23L6406-12C)|
 |U2|harvested (BS62LV256SC-70) OR FM18W08|
