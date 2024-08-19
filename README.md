@@ -11,7 +11,7 @@ Order at 0.8mm and with ENIG, **NOT HASL**.
 ### SRAM vs FRAM
 ***As a quick note, if your donor board has a working SRAM I would generally reccomend you simply use that and not go out of your way to get a new FRAM chip since a battery save will likely last more than long enough for most people.***  
   
-  This board works with both the original save chip (SRAM) OR a replacement new part, a FM18W08 (FRAM) with the benefit of the FRAM being that a battery is not required to maintain the save. If FRAM is used, do not install a battery and populate R5 with a 10k ohm resistor (sized for 0603), this goes between pins 20 and 28 of the FM18W08 to act as a pullup resistor since the functionality of its chip enable pin is inverted compared to the original SRAM.  
+  This board works with both the original save chip (SRAM) OR a replacement new part, a FM18W08 (FRAM) with the benefit of the FRAM being that a battery is not required to maintain the save. If FRAM is used, do not install a battery and instead populate R5 with a 10k ohm resistor (sized for 0603), this goes between pins 20 and 28 of the FM18W08 to act as a pullup resistor since the functionality of its chip enable pin is inverted compared to the original SRAM.  
   As a side note, the SRAM/FRAM footprint on the board is sized for the FM18W08 which is slightly smaller than the original SRAM, although I haven't had any trouble getting the original SRAM on. 
 ### BOM 
 |Designator|Component|
