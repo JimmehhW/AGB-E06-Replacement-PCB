@@ -28,5 +28,5 @@ Order at 0.8mm and with ENIG, **NOT HASL**.
 |U3|harvested (BU9803F)|
 |U4|harvested (PST3425)|
   
-![FRONT](assets/AGB-E06-Front.jpg)
-![BACK](assets/AGB-E06-Back.jpg)
+![FRONT]()
+![BACK]()
